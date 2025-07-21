@@ -1,0 +1,19 @@
+{
+  "name": "controle-de-estoque",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "@types/readline-sync": "^1.4.8"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
